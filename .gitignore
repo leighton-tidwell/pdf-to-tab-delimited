@@ -1,0 +1,7 @@
+tessdata
+bin
+.settings
+.project
+*.png
+*.pdf
+.classpath
